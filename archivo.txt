@@ -1,2 +1,1 @@
-"Primer cambio en rama_AsierEzquerra" 
-"Cambio desde rama_AsierEzquerra" 
+"Cambio desde rama_Asier" 
